@@ -1,4 +1,4 @@
-# Predict_ICU_mortality_NLP
+# Predict patient mortality based on clinician's notes during the ICU visit (NLP model)
 
 
 ### Highlights:
